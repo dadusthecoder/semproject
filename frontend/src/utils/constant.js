@@ -1,5 +1,5 @@
 export const USER_API_END_POINT = "https://semproject-1uic.onrender.com/api/v1/user";
-export const TWEET_API_END_POINT = "https://semproject-1uic.onrender.coma/pi/v1/tweet";
+export const TWEET_API_END_POINT = "https://semproject-1uic.onrender.com/api/v1/tweet";
 
 export const timeSince = (timestamp) => {
     let time = Date.parse(timestamp);
